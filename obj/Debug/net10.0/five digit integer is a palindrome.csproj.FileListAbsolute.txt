@@ -1,0 +1,14 @@
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\bin\Debug\net10.0\five digit integer is a palindrome.exe
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\bin\Debug\net10.0\five digit integer is a palindrome.deps.json
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\bin\Debug\net10.0\five digit integer is a palindrome.runtimeconfig.json
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\bin\Debug\net10.0\five digit integer is a palindrome.dll
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\bin\Debug\net10.0\five digit integer is a palindrome.pdb
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.AssemblyInfoInputs.cache
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.AssemblyInfo.cs
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.csproj.CoreCompileInputs.cache
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.dll
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\refint\five digit integer is a palindrome.dll
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.pdb
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\five digit integer is a palindrome.genruntimeconfig.cache
+C:\Users\lagos\Documents\firstProject\five digit integer is a palindrome\obj\Debug\net10.0\ref\five digit integer is a palindrome.dll
