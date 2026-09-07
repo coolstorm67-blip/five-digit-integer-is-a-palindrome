@@ -9,7 +9,7 @@ class palindrome
             string number = Console.ReadLine();
             if (number.Length != 5)
             {
-                Console.WriteLine("Error: Please enter a five-digit integer.");
+                Console.WriteLine("Error: Please entera five-digit integer.");
                 continue;
             }
             if (number[0] == number[4] && number[1] == number[3])
